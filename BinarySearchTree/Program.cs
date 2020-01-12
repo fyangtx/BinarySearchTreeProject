@@ -31,6 +31,8 @@ namespace BinarySearchTree
 
             //3. run tests
             RunTests(tree);
+
+            Console.ReadKey();
         }
 
         private static void RunTests(BinarySearchTree tree)
